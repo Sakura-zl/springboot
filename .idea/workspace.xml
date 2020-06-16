@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59d06938-b356-4ca4-b372-3b321b9d6dbb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../javaplus/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Users\javaplus\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UNmbjhHTfDAZlvzPVUI33PxcAN" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server/src/main/resources/statics/img" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\13752\IdeaProjects\PermissonManagementPlatform\model\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sakura.pmp.server.common" />
+      <recent name="com.sakura.pmp.server.config" />
+      <recent name="com.sakura.pmp.common.filter" />
+      <recent name="com.sakura.pmp.server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\13752\IdeaProjects\PermissonManagementPlatform\server\src\main\resources\statics\img" />
+      <recent name="D:\Users\13752\IdeaProjects\PermissonManagementPlatform\server\src\main\resources" />
+      <recent name="D:\Users\13752\IdeaProjects\PermissonManagementPlatform\model\src\main\resources\mappers" />
+      <recent name="D:\Users\13752\IdeaProjects\PermissonManagementPlatform\model\src\main\java\com\sakura\pmp\model" />
+      <recent name="D:\Users\13752\IdeaProjects\PermissonManagementPlatform\model\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ShiroUtil">
+    <configuration name="ShiroUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sakura.pmp.server.shiro.ShiroUtil" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sakura.pmp.server.shiro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sakura.pmp.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sakura.pmp.server.MainApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShiroUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59d06938-b356-4ca4-b372-3b321b9d6dbb" name="Default Changelist" comment="" />
+      <created>1575205500899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575205500899</updated>
+      <workItem from="1575205503779" duration="3869000" />
+      <workItem from="1575256450006" duration="104000" />
+      <workItem from="1575256560062" duration="2793000" />
+      <workItem from="1575287231562" duration="5924000" />
+      <workItem from="1575297418368" duration="4341000" />
+      <workItem from="1575301813397" duration="41000" />
+      <workItem from="1575378540711" duration="1804000" />
+      <workItem from="1575724442452" duration="745000" />
+      <workItem from="1582698662187" duration="2858000" />
+      <workItem from="1582708417598" duration="8307000" />
+      <workItem from="1582730858930" duration="517000" />
+      <workItem from="1582788335840" duration="5811000" />
+      <workItem from="1582858673645" duration="7099000" />
+      <workItem from="1582963907291" duration="8562000" />
+      <workItem from="1583049271058" duration="9427000" />
+      <workItem from="1583135254400" duration="3464000" />
+      <workItem from="1583232766887" duration="2090000" />
+      <workItem from="1583322005074" duration="641000" />
+      <workItem from="1583493692906" duration="1187000" />
+      <workItem from="1583564182448" duration="3713000" />
+      <workItem from="1583827863198" duration="1866000" />
+      <workItem from="1583938619879" duration="1207000" />
+      <workItem from="1584865210115" duration="3130000" />
+      <workItem from="1588657074805" duration="32000" />
+      <workItem from="1588657141951" duration="196000" />
+      <workItem from="1589287585817" duration="692000" />
+      <workItem from="1589377901954" duration="613000" />
+      <workItem from="1589552637410" duration="4142000" />
+      <workItem from="1589597120029" duration="6493000" />
+      <workItem from="1589616614014" duration="7452000" />
+      <workItem from="1589642171955" duration="3297000" />
+      <workItem from="1589698599116" duration="2144000" />
+      <workItem from="1589814412551" duration="2115000" />
+      <workItem from="1589874243708" duration="12741000" />
+      <workItem from="1589960655120" duration="4063000" />
+      <workItem from="1589970673033" duration="3153000" />
+      <workItem from="1589987577226" duration="2950000" />
+      <workItem from="1590048717949" duration="10870000" />
+      <workItem from="1590131066288" duration="9608000" />
+      <workItem from="1590199484015" duration="12341000" />
+      <workItem from="1590305653575" duration="4864000" />
+      <workItem from="1590670125167" duration="1433000" />
+      <workItem from="1591431475470" duration="2885000" />
+      <workItem from="1592042607020" duration="238000" />
+      <workItem from="1592100026813" duration="3775000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
